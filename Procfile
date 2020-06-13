@@ -1,1 +1,1 @@
-web: flower --port=$PORT --broker=$BROKER_URL --basic_auth=$FLOWER_AUTH --auth=.*@quaestor\.com
+web: flower --port=$PORT --broker=$BROKER_URL --auth=.*@quaestor\.com
